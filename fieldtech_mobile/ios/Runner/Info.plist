@@ -66,5 +66,14 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+
+	<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+   <string>FieldTech requiere su ubicacion para georreferenciar la incidencia.</string>
+   <key>NSCameraUsageDescription</key>
+   <string>FieldTech requiere la camara para capturar evidencia fotografica.</string>
+   <key>NSPhotoLibraryUsageDescription</key>
+   <string>FieldTech requiere la galeria para seleccionar fotos de archivo.</string>
+	</dict>
 </dict>
 </plist>
